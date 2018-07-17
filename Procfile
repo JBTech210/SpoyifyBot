@@ -1,1 +1,0 @@
-worker: python vipmc.py
